@@ -1,0 +1,66 @@
+{
+    "osztalyok": [
+    {
+            "1.A": [
+                "tanulo1",
+                "tanulo2",
+                "tanulo3",
+                "tanulo4",
+                "tanulo5",
+                "tanulo6",
+                "tanulo7",
+                "tanulo8",
+                "tanulo9"
+            ],
+            "1.B": [
+                "tanulo10",
+                "tanulo11",
+                "tanulo12",
+                "tanulo13",
+                "tanulo14",
+                "tanulo15",
+                "tanulo16",
+                "tanulo17",
+                "tanulo18"
+            ],
+            "2.A": [
+                "tanulo19",
+                "tanulo20",
+                "tanulo21",
+                "tanulo22",
+                "tanulo23",
+                "tanulo24",
+                "tanulo25",
+                "tanulo26",
+                "tanulo27"
+            ],
+            "2.B": [
+                "tanulo28",
+                "tanulo29",
+                "tanulo30",
+                "tanulo31",
+                "tanulo32",
+                "tanulo33",
+                "tanulo34",
+                "tanulo35",
+                "tanulo36"
+            ]
+        }
+    
+    
+    ],
+    "allatlista": [
+            "állat1",
+            "állat2",
+            "állat3",
+            "állat4",
+            "állat5",
+            "állat6",
+            "állat7",
+            "állat8",
+            "állat9",
+            "állat10",
+            "állat11",
+            "állat12"
+            ]
+}

@@ -1,0 +1,52 @@
+@charset "utf-8";
+main{
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    /*background: #999900;*/
+    background-color: lime;
+}
+man, footer, header, article, section{
+    border: 1px solid lightblue;
+    padding:5px;
+}
+table{
+    width:100%;
+}
+
+table tr,td,th{
+    font-size: 20px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    
+}
+
+table tr:nth-child(even) {
+  background: grey;
+}
+table tr:nth-child(odd) {
+  background: darkgoldenrod;
+}
+
+header{
+    position: relative;
+    text-align: center;
+    color: darkgreen;
+}
+#kep{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    font-size: 30px;
+    position: absolute;
+    top: 8px;
+    left:50%;
+    transform: translate(-50%);
+}
+footer{
+    text-align:center;
+    background:lightgreen;
+}
+

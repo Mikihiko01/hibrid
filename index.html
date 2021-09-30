@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="hu">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>BogdánGábor Tellér Ádám Szabó Gergő</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="adatok.json"></script>
+        <script src="js.js"></script>
+        <link rel="stylesheet" href="stilus.css">
+    </head>
+    <body >
+        <main >
+            <header>
+                <h1>Hibrid lény generátor</h1>
+                <img id="kep" src="kepek/hibridleny2.png" alt=""/>
+            </header>
+            <article >
+                <label for="osztaly2">Válassz osztályt!</label>
+                <select id="osztaly2" onchange="kattint()" name="osztalyok" >
+
+                    </select>
+                <input  type="button" value="Nyomtat" onclick="window.print()">
+                <div id="diakok"></div>
+            </article>
+            <section>
+                    
+            </section>
+            <footer>
+
+                @Bogdán Gábor Tellér Ádám Szabó Gergő@
+            </footer>
+        </main>
+    </body>
+</html>
